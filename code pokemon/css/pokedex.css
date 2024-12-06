@@ -1,0 +1,49 @@
+body {
+    width: 600px;
+    height: 1100px;
+    margin: auto;
+    box-shadow: red 1px 1px 12px;
+
+}
+
+h1 {
+    padding: 20px 20px;
+    text-align: center;
+    text-decoration: underline;
+
+}
+p{
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+h2 {
+    padding-left: 10px;
+}
+figure {
+    display: flex;
+    float: left;
+
+}
+
+img {
+    width: 100px;
+
+
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
+
+div {
+    text-align: right;
+    padding: 10px;
+}
+/*
+ul{
+    list-style-image: url("https://www.flaticon.com/fr/icone-gratuite/faire-demi-tour_4286274");
+}*/
